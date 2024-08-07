@@ -1,6 +1,6 @@
-Encabezado del archivo README.md
+# Nombre del Proyecto: Proyecto final
 
-Nombre: Ingrid Solís
+# Alumna: Ingrid Solís
 
-fecha: Agosto 2024
+# fecha: Agosto 2024
 
